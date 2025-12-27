@@ -1,6 +1,3 @@
-# mini-ecommerce-aws-project-
-Mini E-Commerce Website using AWS A simple e-commerce web application where users place an order from a static website hosted on AWS S3. The backend runs on an EC2 instance using Python, and AWS SNS sends an email notification when an order is placed. This project demonstrates basic AWS service integration and cloud deployment.
-
 Mini E-Commerce Website using AWS
 
 ##  Project Overview
@@ -14,7 +11,6 @@ Users can place an order from a static website, and the backend sends an email n
 - AWS S3 (Static Website Hosting)
 - AWS EC2 (Backend Server)
 - AWS SNS (Email Notifications)
-- IAM(Role)
 - Python (HTTP Server)
 - Linux (Amazon Linux 2)
 
@@ -39,7 +35,5 @@ E-commerce Backend(Microservices)
 │ └── index.html
 │ └── app.py
 ├── screenshots/
-├── Mini_Ecommerce_AWS_Project_Report.docx
-└── README.md
 ├── Mini_Ecommerce_AWS_Project_Report.docx
 └── README.md
