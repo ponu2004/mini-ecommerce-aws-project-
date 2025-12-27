@@ -30,10 +30,3 @@ S3 Website → EC2 Backend API → SNS Email Notification
 
 ---
 
-##  Project Structure
-E-commerce Backend(Microservices)
-│ └── index.html
-│ └── app.py
-├── screenshots/
-├── Mini_Ecommerce_AWS_Project_Report.docx
-└── README.md
